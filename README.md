@@ -1,5 +1,21 @@
-# Automating-Data-Insights-with-Alteryx-Rootbeer-Analysis
+# Rootbeer-Alteryx-Project
+In this project, I am importing 9 tables into the Alteryx Designer and subsequently prepare, manipulate, transform and analyse data. This project was a great help in understanding specific nuances of ETL (Extract Transform Load) process
 
-In this project, I imported 9 tables into Alteryx Designer to prepare, manipulate, and analyze data, gaining a deeper understanding of the ETL (Extract, Transform, Load) process. Key tasks included identifying and correcting data errors, joining data from multiple sources, and calculating new metrics and dimensions.
+Some of the specific tasks I did:
 
-Additionally, I created data visualizations to analyze insights and generated reports to effectively communicate the findings to stakeholders. This project enhanced my ability to automate and streamline complex data workflows in Alteryx.
+
+
+
+Import and prepare the company's raw data for analysis
+
+Identify and correct data errors
+
+Join data from multiple sources
+
+Calculate new metrics and dimensions
+
+Create data visualizations to analyze the data
+
+Generate reports to communicate the findings to stakeholders
+
+![image](https://github.com/nikkimutallim/Rootbeer-Alteryx-Project/assets/116984010/0980e551-5240-4ef5-a392-5cb59550880c)
